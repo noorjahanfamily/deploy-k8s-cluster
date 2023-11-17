@@ -1,1 +1,6 @@
+pipes {
+    stages {
+            push the docker image to hub
+    }
+}
 
